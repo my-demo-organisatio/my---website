@@ -14,4 +14,9 @@ this is just an readme file.
 The purpose of this is to use git and github together.
 
 
+## Getting started section
+
+here we explain how to get start this project.
+
+
 
